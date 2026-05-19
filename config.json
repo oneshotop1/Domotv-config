@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "premiumKeys": [
+    "DOMO-2027-A7X9K2-M3P8Q4"
+  ],
+  "premium": {
+    "configUrl": "https://raw.githubusercontent.com/oneshotop1/domotv-config/main/android/premium.json"
+  },
+  "appName": "Domo TV",
+  "minVersion": "1.0.0"
+}
