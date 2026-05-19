@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "tmdbToken": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NzlkZWYyZDY5ZWFlNDk4ZjJiOTI4MTgyNDdjM2ViMCIsInN1YiI6IjY2MjdmMGJlNjJmMzM1MDE0YmQ4NTFmMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.h3KpPvkiaz8uNz1bntAKqsPrxG_4UUWaY3kYME6N6m8",
+  "players": {
+    "movie": [
+      "https://vidfast.pro/movie/{id}",
+      "https://vidup.to/movie/{id}",
+      "https://www.vidking.net/embed/movie/{id}"
+    ],
+    "tv": [
+      "https://vidfast.pro/tv/{id}/{season}/{episode}",
+      "https://vidup.to/tv/{id}/{season}/{episode}",
+      "https://www.vidking.net/embed/tv/{id}/{season}/{episode}"
+    ]
+  },
+  "sports": {
+    "mirrors": [
+      "https://streamed.pk",
+      "https://streami.su",
+      "https://streamed.st"
+    ],
+    "eventsApi": "https://streamed.pk/api/matches/live"
+  }
+}
